@@ -1,7 +1,7 @@
 # Sparshik KYC API: Python SDK & Sample
 
 [![PyPi Version](https://img.shields.io/pypi/v/sparshik_kyc.svg)](https://pypi.org/project/sparshik_kyc/)
-[![License](https://img.shields.io/pypi/l/sparshik_kyc.svg)](https://github.com/sparshik/kyc-sdk-python/blob/master/LICENSE.md)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sparshik/kyc-sdk-python/blob/master/LICENSE.md)
 
 ## About
 The Sparshik API is based on REST principles. It uses standard HTTP response codes and verbs, and token-based authentication. You should use a Content-Type: application/json header with all PUT and POST requests except when uploading documents or live photos. For these requests, use a Content-Type: multipart/form-data header.
