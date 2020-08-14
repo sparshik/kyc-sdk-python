@@ -1,6 +1,6 @@
 # Sparshik KYC API: Python SDK & Sample
 
-[![PyPi Version](https://img.shields.io/pypi/v/sparshik-kyc.svg)](https://pypi.org/project/sparshik_kyc/)
+[![PyPi Version](https://img.shields.io/pypi/v/sparshik_kyc.svg)](https://pypi.org/project/sparshik_kyc/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sparshik/kyc-sdk-python/blob/master/LICENSE.md)
 
 ## About
